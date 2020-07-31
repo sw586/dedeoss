@@ -1,1 +1,1 @@
-# dedeoss
+# 原阿里云dedeoss图片资源
